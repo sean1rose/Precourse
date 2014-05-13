@@ -1,5 +1,5 @@
 def recursive(number)
-	if num == 0
+	if number == 0
 		puts number
 	else 
 		puts number
