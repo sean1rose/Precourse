@@ -1,0 +1,2 @@
+# An array's 'keys' are ordered numerically, starting at index 0. You cannot name or change the indeces of an array. It's basically a numerically ordered storage container.
+# A hash on the other hand, consists of key-value pairs that don't have to be in numerical order. They pairs can be organized by string, number, array, etc.
